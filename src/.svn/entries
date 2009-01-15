@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="108"
+   name=""
+   committed-date="2008-10-21T14:20:17.598558Z"
+   url="http://djapian.googlecode.com/svn/trunk/src"
+   last-author="rafaeljsg14"
+   kind="dir"
+   uuid="36a948a3-fc37-0410-8bc3-7137da836232"
+   repos="http://djapian.googlecode.com/svn"
+   revision="108"/>
+<entry
+   name="djapian"
+   kind="dir"/>
+</wc-entries>
